@@ -1,88 +1,72 @@
-Markdown Practice Exercises.
---- 
+# Markdown Practice Exercises
 
-First Exercise: Headings 
----
+## First Exercise: Headings 
 
-## My Learning Goals
+### My Learning Goals
 
-### This Semester 
+#### This Semester 
 
-Second Exercise: Text Formatting
----
+## Second Exercise: Text Formatting
+
 **Hi i like reading**
 
 *Hope your having a nice day*
 
 `Life is beautiful`
 
+## Third Exercise: Links
 
-Third Exercise: Links
----
+[Link to GitHub](https://github.com/Manu-debug-hub)
 
-[Link](https://github.com/Manu-debug-hub)
+[Link to YouTube](https://youtube.com)
 
-[Link](https://youtube.com)
+## Fourth Exercise: Lists
 
-Fourth Exercise: Lists
----
-Unordered lists
----
-Learning JavaScript 
+### Unordered Lists
 
-  Learning python
+- Learning JavaScript 
+- Learning python
+- Learning Rust
 
-Learning Rust
+### Ordered Lists
 
-Ordered Lists
----
+1. Edit your file
+2. Stage the change: `git add index.html`
+3. Create the commit
 
-1.Edit your file
+## Fifth Exercise: Table
 
-2. Stage the change
-git add index.html
+| Tool        | Purpose        | Link                     |
+|-------------|----------------|--------------------------|
+| Google Drive| Storage        | https://www.google.com   |
+| YouTube     | Social media   | https://YouTube.com      |
+| Google Docs | Documentation  | https://docs.google.com  |
 
-  3. Create the commit
-
-Fifth Exercise: Table
----
-
-| Tool        | Purpose   | Link                     |
-|-------------|-----------|--------------------------|
-| google drive| storage   | https://www.google.com   |
-| YouTube     |Social media| https://YouTube.com     |
-| google docs | Documentation| https://docs.google.com|
-
-
-Sixth Exercise: Task Lists
----
+## Sixth Exercise: Task Lists
 
 - [ ] Computer Programming 
 - [ ] Dev Ops
 - [ ] LLM fluent
 
-
-Seventh Exercise: Code Block
----
+## Seventh Exercise: Code Block
 
 ```java
 print(`hello sun`)
 ```
 
-Eighth Exercise: Blockquote
----
+## Eighth Exercise: Blockquote
 
 > Life is a journey have fun.
 
+## About me
 
-###About me:
----
+> I like gaming and appreciating life as it is, I became interested in computers through gaming like *NFS, GTA, Call of Duty and others*. I once asked myself how does the computer work from the motherboard to every component.
 
-> I like gaming and appreciating life as it is, I became intested in computers through gaming like *Nfs,gta,call of duty and others*.I once asked my self how does the computer work from the 1.moth[...]
- 
-2. the ssd and the power supply
-3. the keyboard,the mouse
-4. the OS
+The main components that make up a computer are:
 
-   I started to be interested to know how they function to make a computer.The areas i got answers were [Link](https://YouTube.com) and many others.
+1. The motherboard and the CPU
+2. The SSD and the power supply
+3. The keyboard and the mouse
+4. The OS
 
+I started to be interested to know how they function to make a computer. The areas I got answers were [YouTube](https://YouTube.com) and many others.
